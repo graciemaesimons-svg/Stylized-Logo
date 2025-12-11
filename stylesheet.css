@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.logo {	
+font-family: "hwt-arabesque", sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size: 10rem;
+color: #E49AB0;
+
+
+text-shadow:
+ 2px 2px 4px rgba(228, 154, 176, 0.45),   
+    0px 0px 10px rgba(255, 210, 230, 0.8); 
